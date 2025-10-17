@@ -18,10 +18,10 @@ WIP: true
 
 ## Переводы клиента {#translations-client}
 
-地图客户端的翻译在金山文档进行，如果您想要参与地图客户端的翻译请在 QQ 或者 Discord 联系我们。
+Если вы хотите принять участие в переводе карты клиента, свяжитесь с нами в QQ или Discord
 
 ## Начать новый перевод {#starting-a-new-translation}
 
 Документация карты недавно претерпела крупные изменения. По этой причине переводы на другие языки недоступны или в процессе разработки.
 
-Усилиями сообщества мы надеемся перевести продует на все доступные языки в Genshin Impact [GitHub](https://github.com/kongying-tavern/docs/issues/242). Если это вас заинтересовало, то ознакомьтесь с [руководством по переводу](https://github.com/kongying-tavern/docs/blob/main/.github/translation-guide.md).
+Усилиями сообщества мы надеемся перевести продует на все доступные языки в Genshin Impact [GitHub](https://github.com/kongying-tavern/docs/issues/242). Если это вы желайте помочь в развитии, то ознакомьтесь с [руководством по переводу](https://github.com/kongying-tavern/docs/blob/main/.github/translation-guide.md).
