@@ -6,6 +6,7 @@
 # Dependency directories
 node_modules/
 jspm_packages/
+
 # Explorations files
 explorations
 
@@ -93,9 +94,6 @@ lib-cov
 
 # Claude Code files
 .claude/
-/.idea/.gitignore
-/.idea/docs.iml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/vcs.xml
+
+# JetBrains
+.idea
