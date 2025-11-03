@@ -20,8 +20,7 @@ authors:
 > - Chinatelecom Cloud (Access code: exn0): <https://cloud.189.cn/t/YF7Fj2zIRVbi>
 > - Automatic update window does not appear? <https://yuanshen.site/docs/en/manual/faq/autoupdate/updater>
 
-``` java
-/*
+```
                    _ooOoo_
                   o8888888o
                   88" . "88
@@ -41,13 +40,12 @@ authors:
 ======`-.____`-.___\_____/___.-`____.-'======
                    `=---='
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-          May no bug be with you.
-*/
+           May no bug be with you.
 ```
 
 > For Hot Update Logs, please check ***[Hot Update Log](https://yuanshen.site/docs/en/blog/hotupdatelog-client)***.
 
-----
+---
 
 ::: timeline Rc1.0.1: 2025-01-15
 
@@ -249,7 +247,7 @@ authors:
 - Fix a {%= L_RARE %} issue which may cause Run in Offline Mode and Exit button malfunctions after three download failures.
 - Fix a {%= L_NORMAL %} issue which may cause Position Tracker update detection error.
 - Fix a {%= L_NORMAL %} issue which may cause tooltip text to detach from prompt window.
-- Optimize [Location Tracker]'s version selection UI. Moreover, a marker is added to the downloaded version.
+- Optimize the version selection UI of Position Tracker. Moreover, a marker is added to the downloaded version.
 - Optimize UI tips for some long text.
 
 :::
@@ -527,7 +525,7 @@ authors:
 - {color:#e13636}**This version has an issue with automatic updates. Please update the version manually!**{/color}
 - !!Update the independent auto-update for Position Tracker (Postponed).!!
 - Update Layered Map for Desert of Hadramaveth (Thanks to "Teyvat Map Institute" for providing Layered Map of underground areas)
-- Update DLL of Location Tracker.
+- Update DLL of Position Tracker.
 - Fix a {%= L_RARE %} issue where Teleport Waypoints may display abnormally after data update.
 - Fix a {%= L_RARE %} issue where icon may display as \[?\].
 - Fix a {%= L_NORMAL %} issue that may cause incorrect scaling of Teleport Waypoints when scaling UI.
@@ -600,7 +598,7 @@ Fix a {%= L_RARE %} issue that may cause the filter can not update pin data when
 - Fix a {%= L_NORMAL %} issue where pins can not be reset when they are not displayed.
 - Fix a {%= L_NORMAL %} issue that may cause incorrect auto-save progress display on exit (does not affect progress actually).
 - Fix a {%= L_NORMAL %} issue that may cause the Position Tracker icon to appear abnormally small.
-- Update underground areas of desert areas of Sumeru.
+- Update layered map of Sumeru desert areas.
 - Add Pinned Window.
 - Add customized shortcut for Overlay Mode.
 - Optimize the display layer of the Oculus, so they won't be covered by other pins.
@@ -672,9 +670,9 @@ Fix a {%= L_RARE %} issue that may cause the filter can not update pin data when
 - Fix a {%= L_RARE %} issue where item count may incorrect.
 - Pin descriptions are now available for Teleport Waypoint.
 
-!!:::
+:::
 
-::: timeline Beta2.9: Postponed…**
+::: timeline !!Beta2.9: Postponed…!!
 
 :::
 
@@ -752,7 +750,7 @@ Fix a {%= L_RARE %} issue that may cause the filter can not update pin data when
 - Certain pins is now related to multiple items, selecting one will select all.
 - Increase the startup speed by 200%! Pin loading speed is now 1000% faster, completing in an instant!
 - !!Add a new feature that may encounter Geo purgatory while launching Map.!!
-- !!Add a bunch of issues.!!
+- !!Add a bunch of bugs.!!
 
 :::
 
@@ -770,7 +768,6 @@ Fix a {%= L_RARE %} issue that may cause the filter can not update pin data when
 - Fix a {%= L_NORMAL %} issue that may cause an initialization error when double-clicking "Click to Enter". !!(not fixed yet, but will definitely be fixed next time (well, actually it's fixed now; if not, please run the updater to update manually))!!
 - Fix a {%= L_NORMAL %} issue where a continuos "Failed to obtain server version" state may prevent entry. Now, clicking on "Retry" will switch resource server and try again.
 - Known a {%= L_RARE %} issue that prevents this version from running auto-update. Please update manually.
-*
 
 :::
 
