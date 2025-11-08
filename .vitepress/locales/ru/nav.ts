@@ -24,7 +24,7 @@ const nav: DefaultTheme.NavItem[] = [
             link: '/manual/client/',
           },
           {
-            text: 'История обновлений',
+            text: 'История обновлений (клиент)',
             link: '/blog/hotupdatelog-client',
           },
         ],
