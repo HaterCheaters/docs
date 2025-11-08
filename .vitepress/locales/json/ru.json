@@ -524,11 +524,11 @@
   "nav": [
     {
       "text": "Сообщество",
-      "link": "/ru/community"
+      "link": "/community"
     },
     {
       "text": "Поддержите нас",
-      "link": "/ru/support-us"
+      "link": "/support-us"
     },
     {
       "text": "地图工具",
@@ -538,15 +538,15 @@
           "items": [
             {
               "text": "前往下载",
-              "link": "/ru/download-client"
+              "link": "/download-client"
             },
             {
               "text": "使用手册",
-              "link": "/ru/manual/client/"
+              "link": "/manual/client/"
             },
             {
               "text": "更新日志",
-              "link": "/ru/blog/hotupdatelog-client"
+              "link": "/blog/hotupdatelog-client"
             }
           ]
         },
@@ -559,7 +559,7 @@
             },
             {
               "text": "更新日志",
-              "link": "/ru/blog/changelog-web"
+              "link": "/blog/changelog-web"
             }
           ]
         }
@@ -570,11 +570,11 @@
       "items": [
         {
           "text": "问题反馈",
-          "link": "/ru/feedback/"
+          "link": "/feedback/"
         },
         {
           "text": "功能建议",
-          "link": "/ru/feedback/feat"
+          "link": "/feedback/feat"
         }
       ]
     },
@@ -586,15 +586,15 @@
           "items": [
             {
               "text": "加入我们",
-              "link": "/ru/join"
+              "link": "/join"
             },
             {
               "text": "了解团队",
-              "link": "/ru/team"
+              "link": "/team"
             },
             {
               "text": "团队博客",
-              "link": "/ru/./blog"
+              "link": "/./blog"
             }
           ]
         },
@@ -603,15 +603,15 @@
           "items": [
             {
               "text": "制作人员",
-              "link": "/ru/staff"
+              "link": "/staff"
             },
             {
               "text": "赞助鸣谢",
-              "link": "/ru/support-us#sponsor-acknowledgement"
+              "link": "/support-us#sponsor-acknowledgement"
             },
             {
               "text": "技术鸣谢",
-              "link": "/ru/credits"
+              "link": "/credits"
             }
           ]
         },
@@ -620,11 +620,11 @@
           "items": [
             {
               "text": "参与翻译",
-              "link": "/ru/translations"
+              "link": "/translations"
             },
             {
               "text": "友情链接",
-              "link": "/ru/friends-links"
+              "link": "/friends-links"
             }
           ]
         }
@@ -632,10 +632,10 @@
     }
   ],
   "sidebar": {
-    "/ru/manual": [
+    "/manual": [
       {
-        "text": "目录",
-        "link": "/ru/manual/client/"
+        "text": "Руководство",
+        "link": "/manual/client/"
       },
       {
         "text": "使用手册",
@@ -643,39 +643,39 @@
         "items": [
           {
             "text": "批量选择",
-            "link": "/ru/manual/client/batch-selection"
+            "link": "/manual/client/batch-selection"
           },
           {
             "text": "隐藏/显示标记",
-            "link": "/ru/manual/client/hide-show-done"
+            "link": "/manual/client/hide-show-done"
           },
           {
             "text": "覆盖模式",
-            "link": "/ru/manual/client/overlay-mode"
+            "link": "/manual/client/overlay-mode"
           },
           {
             "text": "位置追踪",
-            "link": "/ru/manual/client/position-tracking"
+            "link": "/manual/client/position-tracking"
           },
           {
             "text": "画板/路线功能",
-            "link": "/ru/manual/client/canvas"
+            "link": "/manual/client/canvas"
           },
           {
             "text": "窗口全屏/无边框窗口模式",
-            "link": "/ru/manual/client/fullscreen-windowed"
+            "link": "/manual/client/fullscreen-windowed"
           },
           {
             "text": "帧率设置",
-            "link": "/ru/manual/client/framerate"
+            "link": "/manual/client/framerate"
           },
           {
             "text": "存档恢复",
-            "link": "/ru/manual/client/save-restore"
+            "link": "/manual/client/save-restore"
           },
           {
             "text": "彩蛋",
-            "link": "/ru/manual/client/easter-egg"
+            "link": "/manual/client/easter-egg"
           }
         ]
       },
@@ -685,22 +685,22 @@
         "items": [
           {
             "text": "使用地图客户端会被封号吗？",
-            "link": "/ru/manual/faq/accountsafety/acntban"
+            "link": "/manual/faq/accountsafety/acntban"
           },
           {
             "text": "【自动更新】没有反应",
-            "link": "/ru/manual/faq/autoupdate/updater"
+            "link": "/manual/faq/autoupdate/updater"
           },
           {
             "text": "安装错误",
             "items": [
               {
                 "text": "错误码 2503",
-                "link": "/ru/manual/faq/instlerror/code2503"
+                "link": "/manual/faq/instlerror/code2503"
               },
               {
                 "text": "【无法安装】提示缺乏 dll 文件",
-                "link": "/ru/manual/faq/instlerror/missingdll"
+                "link": "/manual/faq/instlerror/missingdll"
               }
             ]
           },
@@ -709,11 +709,11 @@
             "items": [
               {
                 "text": "空窗提示或卡进度条",
-                "link": "/ru/manual/faq/launcherror/emptydialog"
+                "link": "/manual/faq/launcherror/emptydialog"
               },
               {
                 "text": "“数据查询失败”、“版本查询失败”",
-                "link": "/ru/manual/faq/launcherror/versioncheck"
+                "link": "/manual/faq/launcherror/versioncheck"
               }
             ]
           },
@@ -722,11 +722,11 @@
             "items": [
               {
                 "text": "【不能登录】如何登录",
-                "link": "/ru/manual/faq/login/accountlogin"
+                "link": "/manual/faq/login/accountlogin"
               },
               {
                 "text": "【每次打开都需重新登陆】",
-                "link": "/ru/manual/faq/login/clientrepeatedly"
+                "link": "/manual/faq/login/clientrepeatedly"
               }
             ]
           }
@@ -744,15 +744,15 @@
         "items": [
           {
             "text": "客户端使用手册",
-            "link": "/ru/manual/client/"
+            "link": "/manual/client/"
           },
           {
             "text": "客户端更新日志",
-            "link": "/ru/blog/hotupdatelog-client"
+            "link": "/blog/hotupdatelog-client"
           },
           {
             "text": "网页版更新日志",
-            "link": "/ru/blog/changelog-web"
+            "link": "/blog/changelog-web"
           }
         ]
       },
@@ -761,15 +761,15 @@
         "items": [
           {
             "text": "加入我们",
-            "link": "/ru/join"
+            "link": "/join"
           },
           {
             "text": "团队博客",
-            "link": "/ru/./blog"
+            "link": "/./blog"
           },
           {
             "text": "赞助鸣谢",
-            "link": "/ru/support-us"
+            "link": "/support-us"
           }
         ]
       },
@@ -778,15 +778,15 @@
         "items": [
           {
             "text": "免责声明",
-            "link": "/ru/disclaimer"
+            "link": "/disclaimer"
           },
           {
             "text": "隐私政策",
-            "link": "/ru/privacy"
+            "link": "/privacy"
           },
           {
             "text": "用户协议",
-            "link": "/ru/agreement"
+            "link": "/agreement"
           }
         ]
       },
@@ -795,21 +795,21 @@
         "items": [
           {
             "text": "问题反馈",
-            "link": "/ru/feedback/"
+            "link": "/feedback/"
           },
           {
             "text": "参与翻译",
-            "link": "/ru/translations"
+            "link": "/translations"
           },
           {
             "text": "友情链接",
-            "link": "/ru/friends-links"
+            "link": "/friends-links"
           }
         ]
       }
     ]
   },
-  "META_URL": "https://yuanshen.site/docs/",
+  "META_URL": "https://yuanshen.site/docs/ru",
   "META_TITLE": "Таверна Kongying",
   "META_DESCRIPTION": "Полная карта-путеводитель по ресурсам Genshin Impact от таверны Kongying.",
   "META_KEYWORDS": "Интерактивная карта Genshin, Карта Kongying, Genshin Impact Kongying, ресурсы Genshin Impact, yuanshen, Таверна Kongying",
