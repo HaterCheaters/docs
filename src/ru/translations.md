@@ -2,7 +2,7 @@
 layout: doc
 title: Переводы
 description: Мы выражаем надежду на усилия сообщества чтобы перевести продукт на все доступные языки в Genshin Impact！
-WIP: true
+WIP: false
 ---
 
 # Переводы {#translations}
