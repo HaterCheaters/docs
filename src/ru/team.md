@@ -2,7 +2,7 @@
 title: Наша команда
 layout: page
 aside: false
-wip: true
+wip: false
 ---
 
 <script setup lang="ts">
