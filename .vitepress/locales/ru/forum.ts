@@ -303,7 +303,7 @@ const forum: CustomConfig['forum'] = {
     },
   },
   errors: {
-    tooManyRequests: 'Слишком много запросов，Попробуйте позже',
+    tooManyRequests: 'Слишком много запросов,Попробуйте позже',
     serverError: 'Ошибке сервера. Попробуйте ещё раз',
     notFound: 'Ресурс не найден',
     operationFailed: 'при выполнении {operation} произошла ошибка：{message}',
