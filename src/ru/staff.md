@@ -1,9 +1,9 @@
 ---
 title: Благодарность за помощь в развитии проекта
-description: Участники таверны Kongying принявшие участие в создании карты для Genshin Impact
+description: Участники таверны Kongying, принявшие участие в создании карты для Genshin Impact
 layout: page
 aside: false
-wip: true
+wip: false
 ---
 
 <script setup lang="ts">
