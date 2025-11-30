@@ -21,13 +21,13 @@ const ui: CustomConfig['ui'] = {
     all: 'Все',
   },
   sitemap: {
-    blog: "Блог",
-    manual: "Руководство",
-    general: "Основное",
-    api: "Докупментация API",
-    guide: "Рекомендации",
-    community: "Сообщество",
-    about: "Подробнее",
+    blog: 'Блог',
+    manual: 'Руководство',
+    general: 'Основное',
+    api: 'Документация API',
+    guide: 'Рекомендации',
+    community: 'Сообщество',
+    about: 'Подробнее',
   },
 }
 
