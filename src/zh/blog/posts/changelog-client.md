@@ -12,6 +12,7 @@ author: aaaaaaa8
 
 > **客户端下载方式（除了自动更新外的方式）**
 >
+> - 在线安装器：<https://steambird.pub/-/kyjg/KongYingMap.OnlineInst.exe>
 > - 夸克云盘：<https://pan.quark.cn/s/fe8bb34c77bc>
 > - 加入讨论组：<https://yuanshen.site/docs/community.html>
 > - 百度网盘（提取码：KYJG）：<https://pan.baidu.com/s/1t_FRadAiGHGxw1YvvWt0bg>
@@ -44,6 +45,26 @@ author: aaaaaaa8
 > 热更新日志请查看 ***[热更新日志](https://yuanshen.site/docs/blog/hotupdatelog-client)***。
 
 ---
+
+::: timeline Rc1.1.0：2025-12-03
+
+- 修复了一个{%= L_EPIC %} bug，该 bug 曾导致登录后用户头像读取失败时地图崩溃。
+- 修复了一个{%= L_RARE %} bug，该 bug 曾导致在关闭分层自动关闭洞口设置开启时在分层模式点击地面层级的洞口并标记该洞口时该洞口点位的状态未正确更新。
+- 修复了一个{%= L_NORMAL %} bug，该 bug 曾导致点位弹窗关闭后当前点位渲染层级错误。
+- 修复了一个{%= L_NORMAL %} bug，该 bug 曾导致初始化时宝箱中可能会有空的栏位需要手动滚动一下才出现物品。
+- 新增了6.2的一处地下层级
+- 新增了URLProtocol，以支持通过URL启动地图
+- 新增了RubyText支持，以支持可能的文本标记
+- 优化了网络图片读取的质量，添加了mip支持
+- 优化了点位弹窗的文本拖拽，现在文本没有超出时将忽略拖拽事件
+- 优化了icon轮询机制，现在相同icon只会出现一次
+- 优化了物品生成逻辑，提高效率
+- 优化了字体为静态+动态，提高了运行时效率，现在滚动物品不会卡顿了
+- 优化了部分GC，提高效率
+- 优化网络请求，释放内存
+- 升级引擎版本到2021.3.45f2c1
+
+:::
 
 ::: timeline Rc1.0.1：2025-01-15
 
